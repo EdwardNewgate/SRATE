@@ -1,0 +1,19 @@
+>> SCP-OBJ-0000
+Access: Basic
+Das ist ein Test
+Mal sehen, wie weit das geht
+Ich bin mir nicht sicher
+Ende
+####
+>> SCP-OBJ-0001
+Das ist ein Test
+####
+>> SCP-OBJ-0002
+Das ist ein Test
+####
+>> SCP-OBJ-0003
+Das ist ein Test
+####
+>> SCP-OBJ-0004
+Das ist ein Test
+####
